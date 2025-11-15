@@ -1,0 +1,233 @@
+ManifestFileVersion: 0
+CRC: 2369530413
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eee462ffdd958c510892f5afd89211e8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f612afc509976da186346af97e9442e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a84c9fd6072e17c46b93dd9cf28a0904, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d90f358e0f0235242a422a856b10775e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 182
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_51/(Opt)Effect_51_CustomParts/Effect_51_FistObject1.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_51_Materials/Effect_51_Shockwave.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_06_Materials/Effect_06_Ring.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/UniqueProjectilesVol2_Add_10x10_8K.mat
+- Assets/MagicArsenal/Effects/Prefabs/Shields/Shield Dome/ArcaneDome.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_27_Materials/Effect_27_Ring.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingFire.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/ImpactWhite02.png
+- Assets/FT_MagicEffect_vol3/Material/Flare02.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Ring.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Frost/FrostCloud.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Smoke.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Noise/Noise01.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Smoke.mat
+- Assets/MagicArsenal/Effects/Materials/GroundLightning.mat
+- Assets/Hovl Studio/Wizard spells pack/Textures/Crater37.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Noise/Noise10.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_47/(Opt)Effect_47_CustomParts/(Opt)Effect_47_ParticleBlast.prefab
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_2.png
+- Assets/FantasySpellsEffectsPack/Textures/Slash_Sprites/Slash_2.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Noise/Noise02.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Distortion.mat
+- Assets/doup/ElectricBall01_Yellow.prefab
+- Assets/FT_MagicEffect_vol3/FBX/Tornado03_A.FBX
+- Assets/FantasySpellsEffectsPack/Models/Hand_1.FBX
+- Assets/MagicArsenal/Effects/Materials/Modular/smallglow01.mat
+- Assets/doup/BlackHole01.prefab
+- Assets/MagicArsenal/Effects/Textures/shadow_mothball.png
+- Assets/FantasySpellsEffectsPack/Models/Materials/lambert1.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingEarth.prefab
+- Assets/MagicArsenal/Effects/Materials/GroundShadow.mat
+- Assets/FT_MagicEffect_vol3/FBX/Tornado03_B.FBX x0.8 (scaled).asset
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Distortion_2.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Explosion.mat
+- Assets/MagicArsenal/Effects/Materials/GroundArcane.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Gradients/Gradient_greyscale.PNG
+- Assets/FantasySpellsEffectsPack/Textures/Shockwave_Sprites/Shockwave_02.png
+- Assets/MagicArsenal/Effects/Materials/Multi-Purpose/Aura04.mat
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Noise_3.png
+- Assets/Hovl Studio/Wizard spells pack/Materials/Flare21bcg.mat
+- Assets/MagicArsenal/Effects/Textures/ground_fire02.png
+- Assets/FT_MagicEffect_vol3/Anim/LightAnim_5sec.anim
+- Assets/FantasySpellsEffectsPack/Materials/Effect_51_Materials/Effect_51_Distortion.mat
+- Assets/FT_MagicEffect_vol3/Anim/LightAnim_4sec.anim
+- Assets/Hovl Studio/Wizard spells pack/Materials/Circle116cg.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_06_Materials/Effect_06_Smoke.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Shockwave.mat
+- Assets/FantasySpellsEffectsPack/Shader_ForEffects/Integrated Particle/Shader_Integrated
+  Paticle(WithNormal).shader
+- Assets/FT_MagicEffect_vol3/Texture/Flare02.png
+- Assets/doup/ElectricBall01_Green.prefab
+- Assets/FantasySpellsEffectsPack/Shader_ForEffects/Distortion Effect/Shader_DistortionEffect(WithMask).shader
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Swirl01.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/Swirl01_AddScroll.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_06_Materials/Effect_06_Particle.mat
+- Assets/Hovl Studio/Wizard spells pack/Shaders/Lightning.shader
+- Assets/FT_MagicEffect_vol3/_Prefab/ChargeFX_Wind01_new.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Gradients/GradientCenter05.png
+- Assets/Hovl Studio/Wizard spells pack/Prefabs/Magic shield/Magic shield blue.prefab
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingFrost.prefab
+- Assets/FantasySpellsEffectsPack/Shader_ForEffects/Dissolve Texture/Shader_DissolveTexture(TextureAnimation).shader
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_10.png
+- Assets/Hovl Studio/Wizard spells pack/Textures/Circle116.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Earth/EarthSpray2.mat
+- Assets/FT_MagicEffect_vol3/Texture/Wind04.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Smoke_2.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Shadow/ShadowMothball.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Lightning/lightning_new_arcs_2x2.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Models/RingMesh02.fbx
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_27/27_WarpSide.prefab
+- Assets/Hovl Studio/Wizard spells pack/Textures/Flare21.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Explosion_2.mat
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_27/27_WarpParticles.prefab
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_3.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_47/47_EnergyBlast.prefab
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_38/(Opt)Effect_38_CustomParts/(Opt)Effect_38_FireBreathHole.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Gradients/GradientCenter02.PNG
+- Assets/MagicArsenal/Effects/Textures/fire_orb.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_06/(Opt)Effect_06_CustomParts/(Opt)Effect_06_PortalEffect.prefab
+- Assets/Hovl Studio/Wizard spells pack/Materials/Trail55bcg.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/Mobile/Trail03_MobAddScroll.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Models/Path02.fbx
+- Assets/FantasySpellsEffectsPack/Textures/Shockwave_Sprites/Shockwave_01.png
+- Assets/MagicArsenal/Effects/Materials/GroundFire02.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Models/Cylinder03.fbx
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_1.png
+- Assets/Hovl Studio/Wizard spells pack/Models/Twist.fbx
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Map_3.png
+- Assets/FT_MagicEffect_vol3/Material/Wind04.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Trail03.PNG
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Arcane/ArcaneSparkRot.mat
+- Assets/MagicArsenal/Effects/Textures/aura04.png
+- Assets/Hovl Studio/Wizard spells pack/Models/Cell.fbx
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Models/Cone01.fbx
+- Assets/MagicArsenal/Effects/Textures/frost_snowflake.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Earth/EarthBigRockClear.mat
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_51/(Opt)Effect_51_CustomParts/(Opt)Effect_51_FistHit.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_27_Materials/Effect_27_Smoke.mat
+- Assets/Hovl Studio/Wizard spells pack/Textures/CircleBigMask.png
+- Assets/MagicArsenal/Effects/Textures/frost_cloud.png
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_06.png
+- Assets/MagicArsenal/Effects/Textures/ground_lightning.png
+- Assets/doup/Fireball05_Green.prefab
+- Assets/Hovl Studio/Wizard spells pack/Textures/Lightning15.png
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingArcane.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_08_Materials/Effect_08_Shockwave.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingLightning.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Noise/Noise09.png
+- Assets/doup/ElectricBall01_Blue.prefab
+- Assets/FantasySpellsEffectsPack/Textures/Explosion_Sprites/Explosion_Sprite_02.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_06_Materials/Effect_06_Distortion.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_06_Materials/Effect_06_Slash.mat
+- Assets/Hovl Studio/Wizard spells pack/Materials/Lightning10l.mat
+- Assets/doup/Fireball05_Orange.prefab
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Fire/FireOrb.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_27_Materials/Effect_27_Distortion.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_27_Materials/Effect_27_Particle.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Shaders/Additive_Scroll01.shader
+- Assets/Hovl Studio/Wizard spells pack/Textures/Trail55.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_06/(Opt)Effect_06_CustomParts/(Opt)Effect_06_PortalParticle.prefab
+- Assets/FantasySpellsEffectsPack/AllEffects/Original/Effect_06/Effect_06_CustomParts/Effect_06_PortalEffect.prefab
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_47/(Opt)Effect_47_CustomParts/(Opt)Effect_47_EnergyBlast.prefab
+- Assets/MagicArsenal/Effects/Textures/lightning_new_arcs_2x2.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Distortion.mat
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_4.png
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_02.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/UniqueProjectilesVol2_10X10_8K.png
+- Assets/MagicArsenal/Effects/Textures/shield_arcane2.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Original/Effect_06/Effect_06_CustomParts/Effect_06_PortalParticle.prefab
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Frost/FrostSnowflake.mat
+- Assets/MagicArsenal/Effects/Textures/ground_shadow.png
+- Assets/FantasySpellsEffectsPack/Textures/Ring_Sprites/Ring_01.png
+- Assets/Hovl Studio/Wizard spells pack/Textures/Lightning10.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_38/38_FireBreath.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/UniqueProjectilesVol2_AB_10x10_8K.mat
+- Assets/MagicArsenal/Effects/Textures/earth_bigrock_clear.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Lightning/LightningBallNew.mat
+- Assets/MagicArsenal/Effects/Textures/modular_aura06.png
+- Assets/FT_MagicEffect_vol3/Texture/IceSmoke03_32f.png
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_38/(Opt)Effect_38_CustomParts/(Opt)Effect_38_FireBreathField.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_47_Materials/Effect_47_Particle.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Gradients/Gradient_blue.PNG
+- Assets/doup/Fireball05_Blue.prefab
+- Assets/MagicArsenal/Effects/Textures/arcane_spark_offcenter.png
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_01.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/ImpactWhite02_AddScroll.mat
+- Assets/Hovl Studio/Wizard spells pack/Materials/Lightning15l.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Shaders/AdditiveMobile_Scroll01.shader
+- Assets/Hovl Studio/Wizard spells pack/Textures/Lightning11.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Explosion.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/ImpactWhite02_AddScroll_v2.mat
+- Assets/Hovl Studio/Wizard spells pack/Textures/Crater34.png
+- Assets/Hovl Studio/Wizard spells pack/Materials/Crater34bcg.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_51_Materials/Effect_51_Fist.mat
+- Assets/FantasySpellsEffectsPack/AllEffects/Optimized/(Opt)Effect_38/(Opt)Effect_38_CustomParts/(Opt)Effect_38_FireBreath.prefab
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Gradients/GradientCenter03.png
+- Assets/FT_MagicEffect_vol3/Anim/Wind04.anim
+- Assets/MagicArsenal/Effects/Textures/ground_arcane.png
+- Assets/MagicArsenal/Effects/Textures/earth_spray2.png
+- Assets/FT_MagicEffect_vol3/Material/IceSmoke03_32f.mat
+- Assets/MagicArsenal/Effects/Materials/modular_aura06.mat
+- Assets/MagicArsenal/Effects/Textures/lightning_new_glow.png
+- Assets/MagicArsenal/Effects/Prefabs/Aura/AuraRing/AuraRingShadow.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_38_Materials/Effect_38_Particle.mat
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/Noise/Noise03.TGA
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/ImpactWhite02_AddScroll_v3.mat
+- Assets/Hovl Studio/Wizard spells pack/Sounds/Magic_Shield_1.wav
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Textures/LaserBeams/LaserBeam02.png
+- Assets/MagicArsenal/Effects/Textures/Modular/smallglow01.png
+- Assets/GabrielAguiarProductions/Unique_Projectiles_Volume_2/Materials/Trail02_AddScroll.mat
+- Assets/MagicArsenal/Effects/Materials/ShieldArcane2.mat
+- Assets/Hovl Studio/Wizard spells pack/Materials/Lightning11cg.mat
+- Assets/Hovl Studio/Wizard spells pack/Prefabs/Lightning/Lightning strike 2.prefab
+- Assets/Hovl Studio/Wizard spells pack/Materials/Crater37bcg.mat
+Dependencies: []

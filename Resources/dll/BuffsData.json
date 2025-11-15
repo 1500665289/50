@@ -1,0 +1,76 @@
+{
+    "0": [
+        {
+            "name": "NpcFight_ShieldResistanceToJin",
+            "pwv": 0.1,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToMu",
+            "pwv": 0.1,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToShui",
+            "pwv": 0.1,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToHuo",
+            "pwv": 0.1,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToTu",
+            "pwv": 0.1,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_FabaoNum",
+            "pwv": 5,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_FabaoPowerAddP",
+            "pwv": 100,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_FabaoPowerAddP",
+            "pwv": 100,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        },
+        {
+            "name": "NpcFight_FabaoMaxLingAddP",
+            "pwv": 100,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 0,
+            "skillpw": 0
+        }
+    ]
+}

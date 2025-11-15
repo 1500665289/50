@@ -1,0 +1,95 @@
+{
+    "leave": 0,
+    "fbskill": 0,
+    "fbcount": 1,
+    "buffs": [
+        {
+            "name": "NpcFight_ShieldResistanceToJin",
+            "pwv": 0.9,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 1,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToMu",
+            "pwv": 0.9,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 2,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToShui",
+            "pwv": 0.9,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 13,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToHuo",
+            "pwv": 0.9,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 14,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_ShieldResistanceToTu",
+            "pwv": 0.9,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 15,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_FabaoPowerAddP",
+            "pwv": 5000,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 16,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_FabaoMaxLingAddP",
+            "pwv": 500,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 12,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_FabaoLingRecoverAddP",
+            "pwv": 1000,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 11,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_SpellPowerAddP",
+            "pwv": 5000,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 10,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcFight_ShieldConversionRate",
+            "pwv": 200,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 9,
+            "skillpw": 50
+        },
+        {
+            "name": "NpcLingMaxValue",
+            "pwv": 1500,
+            "pwp": 0.0,
+            "time": 0.0,
+            "skillType": 8,
+            "skillpw": 50
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+ManifestFileVersion: 0
+CRC: 3316844456
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0a39e234830e205c7968389a36bbaa4a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 14a07f9edea32e29e49b9e59a2f2a588
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a84c9fd6072e17c46b93dd9cf28a0904, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Particle_03.png
+- Assets/MagicArsenal/Effects/Models/mp_plane.FBX
+- Assets/MagicArsenal/Effects/Textures/water_droplets.png
+- Assets/2b/sword5/jian5.FBX
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Light/LightParticle.mat
+- Assets/MagicArsenal/prfab/Lightning.prefab
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningModular.prefab
+- Assets/MagicArsenal/prfab/Water.prefab
+- Assets/2b/sword4/wuqi4.FBX
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Water/WaterDrop.mat
+- Assets/MagicArsenal/prfab/Frost.prefab
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Frost/FrostCloud.mat
+- Assets/2b/sword1/mount_001_1_rgb.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Storm/StormSharpSwirl.mat
+- Assets/MagicArsenal/Effects/Materials/GroundLightning.mat
+- Assets/2b/sp1/6_001.controller
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_2.png
+- Assets/MagicArsenal/Effects/Models/Materials/No Name.mat
+- Assets/2b/sp1/6_006.png
+- Assets/MagicArsenal/Effects/Materials/Modular/smallglow01.mat
+- Assets/MagicArsenal/Effects/Textures/shadow_mothball.png
+- Assets/MagicArsenal/Effects/Textures/life_cloud2.png
+- Assets/MagicArsenal/Effects/Prefabs/Shields/Shield Dome/WaterDome.prefab
+- Assets/MagicArsenal/Effects/Textures/life_drop2.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Life/LifeCloud2.mat
+- Assets/MagicArsenal/Effects/Materials/GroundShadow.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningWater.prefab
+- Assets/MagicArsenal/Effects/Models/Materials/sphereshield.mat
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_07.png
+- Assets/2b/sword6/Materials/sssmm6.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningShadow.prefab
+- Assets/MagicArsenal/Effects/Textures/verticalglow02.png
+- Assets/MagicArsenal/Effects/Textures/ground_fire02.png
+- Assets/2b/sp5/MovieClip20_0010.controller
+- Assets/2b/sword3/ws_009_sw_1.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Fire/FireSmokeEmbers.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Water/WaterSphere.mat
+- Assets/2b/sword2/Materials/donghuanz.mat
+- Assets/2b/sword1/Materials/mount_001_1_rgb.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Water/WaterDroplets.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Life/LifeDrop2.mat
+- Assets/FantasySpellsEffectsPack/Shader_ForEffects/Distortion Effect/Shader_DistortionEffect(WithMask).shader
+- Assets/MagicArsenal/Effects/Materials/Multi-Purpose/ModularAura03Dark.mat
+- Assets/2b/Jsword7.prefab
+- Assets/2b/sp1/6_007.png
+- Assets/2b/sp1/6_002.png
+- Assets/2b/Jsword4.prefab
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningFrost.prefab
+- Assets/MagicArsenal/Effects/Textures/verticalglow01.png
+- Assets/2b/sword7/54002_eff.png
+- Assets/FantasySpellsEffectsPack/Materials/Effect_67_Materials/Effect_67_Distortion.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_67_Materials/Effect_67_Smoke.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Earth/EarthSpray2.mat
+- Assets/2b/sword5/Materials/ws_002_sw_1.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Shadow/ShadowMothball.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Lightning/lightning_new_arcs_2x2.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Life/LifeOrb.mat
+- Assets/MagicArsenal/Effects/Textures/fire_ring.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Storm/StormDustBright.mat
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Light/LightSprinkles.mat
+- Assets/2b/Jsword5.prefab
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningFire.prefab
+- Assets/MagicArsenal/prfab/Shadow.prefab
+- Assets/MagicArsenal/Effects/Textures/life_orb.png
+- Assets/2b/sword6/lianhua.FBX
+- Assets/MagicArsenal/Effects/Textures/Modular/glowdark01.png
+- Assets/MagicArsenal/Effects/Materials/VerticalGlow01.mat
+- Assets/MagicArsenal/Demo/Models/Materials/No Name.mat
+- Assets/MagicArsenal/Effects/Textures/fire_orb.png
+- Assets/MagicArsenal/Effects/Materials/ShieldWater.mat
+- Assets/FantasySpellsEffectsPack/Materials/Effect_67_Materials/Effect_67_Smoke_2.mat
+- Assets/2b/sword3/Materials/ws_009_sw_2.mat
+- Assets/2b/sp5/MovieClip21_0005.png
+- Assets/MagicArsenal/Effects/Textures/light_particle.png
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningStorm.prefab
+- Assets/MagicArsenal/Effects/Textures/modular_aura03.png
+- Assets/2b/sword1/jian1.FBX
+- Assets/2b/Jsword6.prefab
+- Assets/MagicArsenal/Effects/Materials/GroundFire02.mat
+- Assets/MagicArsenal/Effects/Textures/fire_smoke_molten.png
+- Assets/2b/pngs/ltwj_x.prefab
+- Assets/2b/sword4/Materials/54006_effect.mat
+- Assets/MagicArsenal/Demo/Models/MagicArsenal_Sword.fbx
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Arcane/ArcaneSparkRot.mat
+- Assets/MagicArsenal/Effects/Textures/shield_water.png
+- Assets/2b/sp1/stlh.anim
+- Assets/2b/Styx.prefab
+- Assets/MagicArsenal/Effects/Textures/shadow_cloud.png
+- Assets/MagicArsenal/Effects/Textures/frost_snowflake.png
+- Assets/MagicArsenal/Effects/Materials/Multi-Purpose/ModularAura03.mat
+- Assets/2b/sp1/6_001.png
+- Assets/2b/sword2/donghuanz.dds
+- Assets/2b/sword7/ding.FBX
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Earth/EarthBigRockClear.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningLife.prefab
+- Assets/MagicArsenal/Effects/Textures/ground_water.png
+- Assets/2b/sword4/54006_effect.png
+- "Assets/2b/sword6/\u4F24\u5FC3\u82B1\u6CD5\u5B9D.dds"
+- Assets/MagicArsenal/Effects/Textures/frost_cloud.png
+- Assets/MagicArsenal/Effects/Textures/ground_lightning.png
+- Assets/FantasySpellsEffectsPack/Textures/Smoke_Sprites/Smoke_Sprite_09.png
+- Assets/MagicArsenal/Demo/Models/Materials/SwordGlow.mat
+- Assets/2b/Jsword3.prefab
+- Assets/MagicArsenal/Effects/Materials/Modular/glowdark01.mat
+- Assets/MagicArsenal/Effects/Textures/water_sphere.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Lightning/LightningBoltNew2.mat
+- Assets/FantasySpellsEffectsPack/Shader_ForEffects/Integrated Particle/Shader_Integrated
+  Paticle(ValueControl).shader
+- Assets/MagicArsenal/Effects/Textures/fire_flame.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Fire/FireOrb.mat
+- Assets/MagicArsenal/Effects/Textures/lightning_new_arcs_2x2.png
+- Assets/FantasySpellsEffectsPack/Textures/Single_Textures/Normal_4.png
+- Assets/MagicArsenal/prfab/Storm.prefab
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningArcane.prefab
+- Assets/MagicArsenal/prfab/Light.prefab
+- Assets/2b/sword5/ws_002_sw_1.png
+- Assets/MagicArsenal/prfab/Arcane.prefab
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Frost/FrostSnowflake.mat
+- Assets/MagicArsenal/Effects/Textures/ground_shadow.png
+- Assets/MagicArsenal/Effects/Materials/Modular/glow01.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningEarth.prefab
+- Assets/MagicArsenal/Effects/Textures/earth_bigrock_clear.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Lightning/LightningBallNew.mat
+- Assets/2b/sword2/ding.FBX
+- Assets/MagicArsenal/Effects/Textures/storm_sharpswirl.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Fire/FireFlame.mat
+- Assets/MagicArsenal/Effects/Textures/arcane_spark_offcenter.png
+- Assets/2b/sp1/6_005.png
+- Assets/2b/sword3/jian3.FBX
+- Assets/2b/sp1/6_008.png
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningLightning.prefab
+- Assets/MagicArsenal/Effects/Materials/GroundWater.mat
+- Assets/MagicArsenal/Effects/Prefabs/Aura/SpinningAura/SpinningLight.prefab
+- Assets/2b/Jsword2.prefab
+- Assets/MagicArsenal/Effects/Models/mp_shield.FBX
+- Assets/MagicArsenal/Effects/Textures/modular_aura03dark.png
+- Assets/MagicArsenal/Effects/Textures/arcane_sphere.png
+- Assets/MagicArsenal/Effects/Textures/earth_spray2.png
+- Assets/2b/pngs/jdftz_x.prefab
+- Assets/FantasySpellsEffectsPack/Materials/Effect_67_Materials/Effect_67_Particle.mat
+- Assets/MagicArsenal/Effects/Textures/lightning_new_glow.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Fire/FireRing.mat
+- Assets/MagicArsenal/Effects/Textures/Modular/glow01.png
+- Assets/2b/sp5/MovieClip20_0001.png
+- Assets/MagicArsenal/Effects/Models/aura_straight.FBX
+- Assets/MagicArsenal/Effects/Textures/water_drop.png
+- Assets/2b/Jsword1.prefab
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Shadow/ShadowCloud.mat
+- Assets/2b/sword7/Materials/54002_eff.mat
+- Assets/MagicArsenal/Effects/Materials/VerticalGlow02.mat
+- Assets/MagicArsenal/Effects/Textures/light_sprinkles.png
+- Assets/2b/sp1/6_004.png
+- Assets/MagicArsenal/Effects/Textures/storm_dust.png
+- Assets/MagicArsenal/Effects/Materials/Projectiles/Arcane/ArcaneSphere.mat
+- Assets/MagicArsenal/Effects/Textures/Modular/smallglow01.png
+- Assets/2b/sp5/MovieClip21_0003.controller
+- Assets/2b/sp1/6_003.png
+- Assets/MagicArsenal/Demo/Models/Materials/SwordGlowShadow.mat
+- Assets/MagicArsenal/Effects/Textures/lightning_new_bolt3.png
+Dependencies: []

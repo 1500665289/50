@@ -1,0 +1,12 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "lowercase-global",
+        "param-type-mismatch",
+        "cast-local-type",
+        "need-check-nil",
+        "inject-field",
+        "undefined-field"
+    ],
+    "Lua.diagnostics.workspaceDelay": -1
+}
